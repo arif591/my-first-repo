@@ -1,3 +1,14 @@
 p{
     color: #00ffdd;
 }
+.blog {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #aca1a1;
+    padding: 20px;
+    border: 10px solid #0179c9;
+    border-radius: 10px;
+}
+.blog p {
+    color: #fff;
+}
